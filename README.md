@@ -4,7 +4,7 @@ Custom bootloader for the TI-Nspire CX (not monochrome or CX II).
 ## [Installation Instructions on TI-Planet](https://tiplanet.org/forum/viewtopic.php?f=57&t=21094)
 
 ## Supported OS Versions (CAS & Non-CAS):
-  - v4.5.5.79
+  - v4.5.5.79 (Latest)
   - v4.5.4.48
   - v4.5.3.14
   - v4.5.0.1180
